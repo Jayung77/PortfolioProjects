@@ -1,4 +1,4 @@
-<img width="1050" height="557" alt="dashboard" src="https://github.com/user-attachments/assets/641306b1-76f4-42b0-a33e-2114dfc05406" />
+<img width="1237" height="626" alt="dashboard" src="https://github.com/user-attachments/assets/b71b0149-8497-4815-bf28-54a2a20933dd" />
 # COVID-19 Tableau 대시보드
 
 ## 프로젝트 소개
